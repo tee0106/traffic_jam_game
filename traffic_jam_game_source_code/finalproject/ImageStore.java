@@ -1,0 +1,53 @@
+package finalproject;
+
+import javafx.scene.image.Image;
+
+public class ImageStore {
+	public static Image background = new Image("file:image/background.png");
+	public static Image themepic = new Image("file:image/theme1.png");
+	public static Image background2 = new Image("file:image/background2.png");
+	public static Image titledif = new Image("file:image/ttdiff.png");
+	public static Image button1n1 = new Image("file:image/button1n.png");
+	public static Image button1n2 = new Image("file:image/button1n2.png");
+	public static Image button1n3 = new Image("file:image/button1n3.png");
+	public static Image button2n1 = new Image("file:image/button2n.png");
+	public static Image button2n2 = new Image("file:image/button2n2.png");
+	public static Image button2n3 = new Image("file:image/button2n3.png");
+	public static Image returnb = new Image("file:image/return.png");
+	public static Image setting = new Image("file:image/setting.png");
+	public static Image refresh = new Image("file:image/refresh.png");
+	public static Image gamebg1 = new Image("file:image/roadbg1.png");
+	public static Image gamebg2 = new Image("file:image/roadbg2.png");
+	public static Image gamebg3 = new Image("file:image/roadbg3.png");
+	public static Image settingbg = new Image("file:image/settingbg.png");
+	public static Image set1 = new Image("file:image/set1.png");
+	public static Image set2 = new Image("file:image/set2.png");
+	public static Image set3 = new Image("file:image/set3.png");
+	public static Image set4 = new Image("file:image/set4.png");
+	public static Image set1b = new Image("file:image/set1b.png");
+	public static Image set2b = new Image("file:image/set2b.png");
+	public static Image set3b = new Image("file:image/set3b.png");
+	public static Image set4b = new Image("file:image/set4b.png");
+	public static Image redcar = new Image("file:image/redcar.png");
+	public static Image longh1 = new Image("file:image/longh1.png");
+	public static Image longh2 = new Image("file:image/longh2.png");
+	public static Image longv1 = new Image("file:image/longv1.png");
+	public static Image longv2 = new Image("file:image/longv2.png");
+	public static Image shorth1 = new Image("file:image/shorth1.png");
+	public static Image shorth2 = new Image("file:image/shorth2.png");
+	public static Image shorth3 = new Image("file:image/shorth3.png");
+	public static Image shorth4 = new Image("file:image/shorth4.png");
+	public static Image shortv1 = new Image("file:image/shortv1.png");
+	public static Image shortv2 = new Image("file:image/shortv2.png");
+	public static Image shortv3 = new Image("file:image/shortv3.png");
+	public static Image shortv4 = new Image("file:image/shortv4.png");
+	public static Image wallL = new Image("file:image/wallL.png");
+	public static Image wallR = new Image("file:image/wallR.png");
+	public static Image wallU = new Image("file:image/wallU.png");
+	public static Image wallD = new Image("file:image/wallD.png");
+	public static Image star1 = new Image("file:image/star1.png");
+	public static Image star2 = new Image("file:image/star2.png");
+	public static Image star3 = new Image("file:image/star3.png");
+	public static Image star1b = new Image("file:image/star1b.png");
+	public static Image star2b = new Image("file:image/star2b.png");
+}

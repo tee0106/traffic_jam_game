@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="250.0" xmlns="http://javafx.com/javafx/8.0.131" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="label1" alignment="CENTER" layoutX="54.0" layoutY="16.0" prefHeight="51.0" prefWidth="138.0" text="這是第一關" wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="label2" alignment="CENTER" layoutX="62.0" layoutY="55.0" prefHeight="51.0" prefWidth="131.0" text="沒有再上一關了">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="okbutton" layoutX="85.0" layoutY="153.0" mnemonicParsing="false" onAction="#handleok" prefHeight="30.0" prefWidth="80.0" text="OK" />
+      <ImageView fx:id="star" fitHeight="50.0" fitWidth="150.0" layoutX="53.0" layoutY="98.0" pickOnBounds="true" preserveRatio="true" />
+   </children>
+</Pane>
